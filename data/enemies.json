@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "frog",
+        "image": "./assets/frog.png"
+    }, 
+    {
+        "id": 2,
+        "name": "wizard",
+        "image": "./assets/wizard.png"
+    },
+    {
+        "id": 3,
+        "name": "spider",
+        "image": "./assets/spider.png"
+    }
+]

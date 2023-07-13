@@ -1,0 +1,16 @@
+{
+  "name": "bash-crusader-online",
+  "version": "1.0.0",
+  "main": "scripts/main.js",
+  "type": "module",
+  "scripts": {
+    "build": "esbuild scripts/main.js --bundle --outfile=app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "esbuild": "0.17.11"
+  }
+}
